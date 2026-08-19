@@ -8,6 +8,6 @@
 - Model predicted 9.7 wins for the 2023 Detroit Lions compared to their actual 12 wins.
 
 **Tools:**
-- Python (pandas) | Google Colab
+- Python (pandas, NumPy, matlpotlib, sklearn) | Google Colab
 
 **Dataset:** https://www.kaggle.com/datasets/nickcantalupa/nfl-team-data-2003-2023/data
